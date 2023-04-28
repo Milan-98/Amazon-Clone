@@ -24,10 +24,10 @@ The Amazon clone was built using the following technologies:
 ## Demo and Screenshots
 
 You can check out a live demo of the Amazon clone [here](https://mazon-clone.netlify.app/).
+![Amazon Clone](https://user-images.githubusercontent.com/114464208/235121180-214cbc39-1104-4294-90a4-046ccc597d8d.png)
+![Amazon Clone (2)](https://user-images.githubusercontent.com/114464208/235121677-d55fa58b-6454-4c9a-8d76-ccefff4597c1.png)
+![Amazon Clone (1)](https://user-images.githubusercontent.com/114464208/235121464-d78341a3-0eb3-421e-a36b-a35ef4049eee.png)
 
-![Amazon clone screenshot 1](https://i.imgur.com/Ytk4v4V.png)
-
-![Amazon clone screenshot 2](https://i.imgur.com/P5f3wJn.png)
 
 ## Installation
 
