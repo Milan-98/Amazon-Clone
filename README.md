@@ -48,4 +48,5 @@ To use this project, simply browse the site and search for products. To add an i
 This project was built by mySelf.
 
 Thank you for checking out this Amazon clone! If you have any questions or feedback, feel free to reach out to us.
+
 date: 25 april 2023 day 134
