@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Amazon Clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an Amazon clone built with React, Axios, Router, Heroicon, and Redux. It has the functionality of a cart, allowing users to add items to their cart and see their total cost.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+The Amazon clone has the following features:
 
-### `npm start`
+- User can browse and search for products
+- User can add items to their cart
+- User can see the total cost of their items in the cart
+- User can view their cart and remove items from it
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Amazon clone was built using the following technologies:
 
-### `npm test`
+- React: a JavaScript library for building user interfaces
+- Axios: a Promise-based HTTP client for the browser and node.js
+- React Router: a library for managing routes in a React application
+- Heroicon: a library of icons for use in web applications
+- Redux: a predictable state container for JavaScript apps
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Demo and Screenshots
 
-### `npm run build`
+You can check out a live demo of the Amazon clone [here](https://mazon-clone.netlify.app/).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Amazon clone screenshot 1](https://i.imgur.com/Ytk4v4V.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Amazon clone screenshot 2](https://i.imgur.com/P5f3wJn.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+To run this project locally, clone the repository and run the following commands:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+cd amazon-clone
+npm install
+npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To use this project, simply browse the site and search for products. To add an item to your cart, click the "Add to Cart" button. To view your cart, click the cart icon in the top right corner of the page. To remove an item from your cart, click the "Remove" button next to the item.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Credits
 
-## Learn More
+This project was built by mySelf.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for checking out this Amazon clone! If you have any questions or feedback, feel free to reach out to us.
