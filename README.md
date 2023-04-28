@@ -32,9 +32,11 @@ You can check out a live demo of the Amazon clone [here](https://mazon-clone.net
 ## Installation
 
 To run this project locally, clone the repository and run the following commands:
-`
-cd amazon-clone
+
+`cd amazon-clone
+
 npm install
+
 npm start`
 
 ## Usage
