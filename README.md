@@ -23,7 +23,7 @@ The Amazon clone was built using the following technologies:
 
 ## Demo and Screenshots
 
-You can check out a live demo of the Amazon clone [here](https://mazon-clone.netlify.app/).
+You can check out a live demo of the Amazon clone [here](https://amazon-clone-eta-blue.vercel.app/).
 
 ![Amazon Clone](https://user-images.githubusercontent.com/114464208/235121180-214cbc39-1104-4294-90a4-046ccc597d8d.png)
 ![Amazon Clone (2)](https://user-images.githubusercontent.com/114464208/235121677-d55fa58b-6454-4c9a-8d76-ccefff4597c1.png)
